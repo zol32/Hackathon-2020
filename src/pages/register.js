@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Fragment } from 'react';
-import SignUp from './SignUp';
+import SignUp from './components/SignUp';
 
 // MUI stuff
 import AppBar from "@material-ui/core/AppBar";
